@@ -1,0 +1,166 @@
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe.config
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.pdb
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\Burds\Downloads\Stanford.NLP.NET-master (1)\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe.config
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.pdb
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
+C:\Users\burds\Desktop\Stanford.NLP.NET-master\Stanford.NLP.NET-master\samples\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojAssemblyReference.cache
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe.config
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.pdb
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojAssemblyReference.cache
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
+C:\Users\burds\Downloads\Stanford.NLP.POSTagger.CSharp-20181017T015344Z-001\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe.config
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.pdb
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
+C:\Users\Burds\Downloads\Stanford.NLP.POSTagger.CSharp (1)\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe.config
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.exe
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\postagger.pdb
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\bin\Debug\stanford-postagger-3.9.1.dll
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojAssemblyReference.cache
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
+C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
