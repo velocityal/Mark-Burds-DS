@@ -31,6 +31,10 @@ namespace Stanford.NLP.POSTagger.CSharp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
+
+
+
             textBox2.Text = getQuestion(NewChunk(getTable(textBox1.Text)));
            // NewChunk(getTable("The Pasig River  is a river in the Philippines that connects Laguna de Bay to Manila Bay."));
            
@@ -299,12 +303,13 @@ namespace Stanford.NLP.POSTagger.CSharp
             for (int i = 0; i <= tagSen.Count - 1; i++)
             {
                 //Regex prep = new Regex(@"{*/IN} {NP}");
-                Regex sub = new Regex("(VB.*)|(IN)");
+                Regex sub = new Regex("(VB.*)");
+                Regex prep = new Regex("(IN)");
                 Regex word = new Regex("(^DT)|(JJ)|(NNPS)|(NNP)|(NNS)|(NN)|(PRP)|(LC)");
                 if (word.Match(tagSen[i].WType).Success)
                 {
                     newData.Add(tagSen[i]);
-                    if(word.Match(tagSen[i+1].WType).Success == false)
+                    if(i == tagSen.Count - 1 || word.Match(tagSen[i+1].WType).Success == false)
                     {
                         phraseName = "NP";
                         listData.Add(new ChunkPhrases
@@ -319,7 +324,7 @@ namespace Stanford.NLP.POSTagger.CSharp
                 else if (sub.Match(tagSen[i].WType).Success)
                 {
                     newData.Add(tagSen[i]);
-                    if (sub.Match(tagSen[i + 1].WType).Success == false)
+                    if (i == tagSen.Count - 1 || sub.Match(tagSen[i + 1].WType).Success == false)
                     {
                         phraseName = "S";
                         listData.Add(new ChunkPhrases
@@ -335,6 +340,144 @@ namespace Stanford.NLP.POSTagger.CSharp
 
 
             return listData;
+        }
+
+        public List<ChunkPhrases> NewChunkV2(List<DataClass> tagSen)
+        {
+            var listData = new List<ChunkPhrases>();
+            String phraseName = "None";
+            List<DataClass> newData = new List<DataClass>();
+            bool cont = true;
+            for (int i = 0; i <= tagSen.Count - 1; i++)
+            {
+                //Regex prep = new Regex(@"{*/IN} {NP}");
+                Regex sub = new Regex("(VB.*)");
+                Regex prep = new Regex("(IN)");
+                Regex word = new Regex("(^DT)|(JJ)|(NNPS)|(NNP)|(NNS)|(NN)|(PRP)|(LC)");
+                if (word.Match(tagSen[i].WType).Success)
+                {
+                    newData.Add(tagSen[i]);
+                    if (word.Match(tagSen[i + 1].WType).Success == false)
+                    {
+                        phraseName = "NP";
+                        listData.Add(new ChunkPhrases
+                        {
+                            Chunk = newData,
+                            Name = phraseName
+                        });
+                        newData = new List<DataClass>();
+                    }
+                }
+
+                else if (sub.Match(tagSen[i].WType).Success)
+                {
+                    newData.Add(tagSen[i]);
+                    if (sub.Match(tagSen[i + 1].WType).Success == false)
+                    {
+                        phraseName = "S";
+                        listData.Add(new ChunkPhrases
+                        {
+                            Chunk = newData,
+                            Name = phraseName
+                        });
+                        newData = new List<DataClass>();
+                    }
+                }
+                else if (prep.Match(tagSen[i].WType).Success)
+                {
+                    newData.Add(tagSen[i]);
+                    if (prep.Match(tagSen[i + 1].WType).Success == false)
+                    {
+                        phraseName = "PP";
+                        listData.Add(new ChunkPhrases
+                        {
+                            Chunk = newData,
+                            Name = phraseName
+                        });
+                        newData = new List<DataClass>();
+                    }
+                }
+
+            }
+
+            return listData;
+        }
+
+        public List<StringChunkPhrases> getNewChunk(List<ChunkPhrases> phrases)
+        {
+            List<TagChunkPhrases> tagPhrase = new List<TagChunkPhrases>();
+            List<ChunkPhrases> newData = new List<ChunkPhrases>();
+            List<StringChunkPhrases> phrasesParse = new List<StringChunkPhrases>();
+            List<String> data = new List<string>();
+            String phrase = "";
+            int counter = 0;
+            for(int i = 0; i <= phrases.Count - 1; i++)
+            {
+                
+                if (phrases[i].Name == "NP")
+                {
+                    newData.Add(phrases[i]);
+                    for(int a = 0; a<= phrases[i].Chunk.Count - 1; a++)
+                    {
+                        data.Add(phrases[i].Chunk[a].SWord);
+                    }
+                    if (phrases[i + 1].Name != "NP")
+                    {
+                        phrase = string.Join(" ", data);
+                        //phrasesParse.Add(phrase);
+                        phrasesParse.Add(new StringChunkPhrases
+                        {
+                            Chunk = phrase,
+                            Name = "NP"
+
+                        });
+                        tagPhrase.Add(new TagChunkPhrases
+                        {
+                        Chunk = newData,
+                        Name = "NP"
+                        
+                    });
+                    counter = i + 1;
+                        
+                    break;
+                }
+                }
+                }
+            newData = new List<ChunkPhrases>();
+            data = new List<string>();
+            for (int i = counter; i <= phrases.Count - 1; i++)
+            {
+                
+                newData.Add(phrases[i]);
+                for (int a = 0; a <= phrases[i].Chunk.Count - 1; a++)
+                {
+                    data.Add(phrases[i].Chunk[a].SWord);
+                }
+                if (i == phrases.Count - 1)
+                {
+                    phrase = string.Join(" ", data);
+                    //phrasesParse.Add(phrase);
+                    phrasesParse.Add(new StringChunkPhrases
+                    {
+                        Chunk = phrase,
+                        Name = "VP"
+
+                    });
+                    tagPhrase.Add(new TagChunkPhrases
+                    {
+                        Chunk = newData,
+                        Name = "VP"
+                       
+                    });
+                    
+                }
+            }
+
+
+
+
+
+                return phrasesParse;
         }
 
         public String getQuestion(List<ChunkPhrases> question)
@@ -382,23 +525,32 @@ namespace Stanford.NLP.POSTagger.CSharp
                 }
             }
             String[] sentences = getData();
-           
+            String qstNew = String.Join("|", questSearch);
+            String thmNew = String.Join("|", themeSearch);
             List<String> phrases = new List<String>();
-            for(int i = 0; i<= sentences.Length - 1; i++)
+            List<StringChunkPhrases> Newphrases = new List<StringChunkPhrases>();
+            for (int i = 0; i<= sentences.Length - 1; i++)
             {
-                Regex qst = new Regex(@"" + quest.ToUpper() + "");
+                Regex qst = new Regex(@"" + qstNew.ToUpper() + "");
                 Regex thm = new Regex(@"" + theme.ToUpper() + "");
                 
                 if (qst.Match(sentences[i].ToUpper()).Success && thm.Match(sentences[i].ToUpper()).Success)
                 {
-                    String qstNew = String.Join("|",questSearch);
+                    //List<TagChunkPhrases> tagPhrase = new List<TagChunkPhrases>();
+                    Newphrases = getNewChunk(NewChunkV2(getTable(sentences[i])));
+                    
+                    List<String> ansPhrase = new List<string>();
+                    for(int ans = 0; ans <= ansPhrase.Count; ans++)
+                    {
+
+                    }
                     //for(int qstcounter = 0; qstcounter <= questSearch.Count - 1; qstcounter++)
                     //{
                     //    qstNew += "(";
                     //    qstNew += questSearch[qstcounter];
                     //    qstNew += ")";
                     //}
-                    String thmNew = String.Join("|", themeSearch);
+                    
                     //for (int qstcounter = 0; qstcounter <= themeSearch.Count - 1; qstcounter++)
                     //{
                     //    thmNew += "(";
@@ -408,7 +560,18 @@ namespace Stanford.NLP.POSTagger.CSharp
                     Regex qstReg = new Regex(@"" + qstNew.ToUpper() + "");
                     Regex thmReg = new Regex(@"" + thmNew.ToUpper() + "");
                     List<ChunkPhrases> phraseSearch = NewChunk(getTable(sentences[i]));
-                    for(int j = 0; j <= phraseSearch.Count - 1; j++)
+
+                    for (int phr = 0; phr <= Newphrases.Count - 1; phr++)
+                    {
+                        if(thm.Match(Newphrases[phr].Chunk.ToUpper()).Success == false)
+                        {
+                            textBox3.Text = Newphrases[phr].Chunk;
+                        }
+                    }
+
+
+
+                    for (int j = 0; j <= phraseSearch.Count - 1; j++)
                     {
 
                         String phrase = "";

@@ -164,3 +164,13 @@ C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSh
 C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
 C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.exe
 C:\Users\burds\Desktop\Stanford.NLP.POSTagger.CSharp2\Stanford.NLP.POSTagger.CSharp\obj\Debug\postagger.pdb
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\bin\Debug\postagger.exe.config
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\bin\Debug\postagger.exe
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\bin\Debug\postagger.pdb
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\Stanford.NLP.POSTagger.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\Stanford.NLP.POSTagger.CSharp.Form2.resources
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.GenerateResource.cache
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\Stanford.NLP.POSTagger.CSharp.csproj.CopyComplete
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\postagger.exe
+C:\Users\Burds\Documents\GITCOMP\Mark-Burds-DS\obj\Debug\postagger.pdb
